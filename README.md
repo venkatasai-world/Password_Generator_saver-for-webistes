@@ -1,6 +1,6 @@
 # Tkinter Password Manager
 
-A simple and functional **Password Manager** built using Python's Tkinter library.  
+A simple and functional **Password Manager** built using Python's Tkinter library. 
 It allows you to generate strong passwords, copy them to the clipboard instantly, and save credentials locally for later use.
 
 ---
